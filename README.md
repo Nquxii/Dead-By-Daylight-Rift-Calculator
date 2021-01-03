@@ -3,7 +3,7 @@ A quick and easy python script made to calculate the playtime necessary for the 
 
 # Usage
 
-if you're not much of a programmer, you can simply copy and paste [my code](dbdXX.py) in an online ide like [repl.it](https://repl.it)
+if you're not much of a programmer, you can simply copy and paste [my code](dbd.py) in an online ide like [repl.it](https://repl.it)
 
 you can also run this script in terminal with the following:
 
