@@ -11,6 +11,6 @@ you can also run this script in terminal with the following:
 
 `cd Dead-By-Daylight-Rift-Calculator`
 
-`python3 DbdXX.py`
+`python3 dbd.py`
 
 good luck with your grind!
