@@ -10,7 +10,7 @@ if fragsneeded <= 0:
     print('''you're already maxed!''')
     exit()
 
-hoursneeded = (fragsneeded * 800 / 60 / 60)
+hoursneeded = fragsneeded * 800 / 60 / 60
 eachday = hoursneeded/daysleft
 
 if eachday > 24:
